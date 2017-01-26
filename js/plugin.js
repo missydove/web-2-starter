@@ -1,1 +1,1 @@
-// jQuery Plugin
+// Paste jQuery Plugin Code Here
